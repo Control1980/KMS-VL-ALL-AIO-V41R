@@ -1,8 +1,6 @@
-# -KMS-VL-ALL-AIO-V41R
- KMS VL ALL AIO(Windows和office智能激活脚本) V41R 中文绿色版
- <img src='https://img1.xitongzhijia.net/allimg/210324/119-2103240Q544404.png'>
+# KMS VL ALL AIO(Windows和office智能激活脚本) V41R 中文绿色版
+ <img src='https://img1.xitongzhijia.net/allimg/210324/119-2103240Q544404.png'><hr>
  KMS_VL_ALL_AIO，批处理激活脚本智能解决方案，用于受支持的Windows、Office 产品激活。智能KMS激活模式KMS38激活至2038年、在线KMS激活180天，激活不覆盖产品的永久激活，支持自动续期激活，Office零售版本转批量版，Office C2R的自动许可证转换等，AIO是传统版的升级版，绿色便携式多合一。
-
 激活支持的产品：
 ﹂Windows 8 / 8.1 / 10 (除了 Windows 10 S 以外的所有版本)
 ﹂Windows 7 (Enterprise /N/E, Professional /N/E, Embedded Standard/POSReady/ThinPC)
